@@ -24,7 +24,7 @@ int main() {
         cin >> kodeBuku[i];
     }
 
-    // Input kode buku yang dicari
+    // Input kode buku yang dicari jduiouwouewiojdkajlkajlajla
     cout << "\nMasukkan kode buku yang dicari: ";
     cin >> key;
 
